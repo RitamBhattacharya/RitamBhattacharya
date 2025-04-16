@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RitamBhattacharya&show_icons=true&theme=radical" width="450"/>
-  <img src="https://streak-stats.demolab.com?user=RitamBhattacharya&theme=radical" width="430"/>
+ ![Profile views](https://komarev.com/ghpvc/?username=RitamBhattacharya&label=Profile%20views&color=0e75b6&style=flat)
 </p>
 
 
