@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RitamBhattacharya&show_icons=true&theme=radical" width="450"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamBhattacharya&theme=radical" width="430"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamBhattacharya&layout=compact&theme=radical" width="430"/>
 </p>
 
 
