@@ -37,9 +37,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitamBhattacharya&show_icons=true&theme=radical" alt="Ritam's GitHub stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamBhattacharya&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RitamBhattacharya&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamBhattacharya&theme=radical" width="430"/>
 </p>
+
 
 ---
 
