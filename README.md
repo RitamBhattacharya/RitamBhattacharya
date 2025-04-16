@@ -46,7 +46,7 @@
 
 ## 📌 Featured Projects
 
-- 🔹 [Employee Management System](https://github.com/RitamBhattacharya/employee-management-system) — Full-stack CRUD app with React & Spring Boot  
+- 🔹 [Employee Management System](https://github.com/RitamBhattacharya/EmployeeManagementSystem) — Full-stack CRUD app with React & Spring Boot  
 - 🔹 [Bookify - Online Book Store Application](https://github.com/RitamBhattacharya/Bookify-Online-Book-Store-Application) — Online Book Store application using Spring Boot and Thymeleaf  
 - 🔹 [Semester Marks Management Application](https://github.com/RitamBhattacharya/Semester-Marks-Management-Application) — Semester Marks Management Application using Spring Boot and Thymeleaf  
 - 🔹 [Leave Management System](https://github.com/RitamBhattacharya/Backend_LMS) — REST APIs using Spring Boot for Leave Management System application
