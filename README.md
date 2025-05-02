@@ -10,6 +10,7 @@
 ### 🔥 About Me
 
 - 🔭 Currently working on **full-stack development projects** using **React** and **Spring Boot**
+**(Spring Core • Spring Context • Spring JDBC • Spring Data JPA • Spring Web MVC • Spring Security)**
 - 🌱 Exploring **Data Structures & Algorithms**, **Web Development**, and **Java-based backend systems**
 - 👯 Open to collaborating on **open-source projects, hackathons, and tech events**
 - 💬 Ask me about **Java, React, REST APIs, Git, or anything tech-related**
