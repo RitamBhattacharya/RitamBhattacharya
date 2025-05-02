@@ -10,6 +10,14 @@
 - 👯 I’m looking to collaborate on **open source projects, hackathons, and dev events**
 
 - 💬 Ask me about **Java, React, REST APIs, Git, or anything tech-related**
+👨‍💻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: C, C++, JSE, JEE, HTML, CSS, JavaScript, TypeScript 
+📱 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Bootstrap, React, Redux, MUI, Thymeleaf 
+🖥 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: SpringBoot, Express, Node 
+🌐 𝗦𝗲𝗿𝘃𝗲𝗿: Tomcat, WildFly, GlassFish 
+🧰 𝗗𝗲𝘃𝗢𝗽𝘀 𝗧𝗼𝗼𝗹: Maven, GitHub, JUnit, Postman 
+💽 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: Oracle, MySQL, MongoDB 
+🛠️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗧𝗼𝗼𝗹: SQL Developer, MySQL Workbench, MongoDB Compass 
+🌟 𝗖𝗼𝗿𝗲 𝗦𝘂𝗯𝗷𝗲𝗰𝘁𝘀: Object Oriented Programming (OOP), Database Management System (DBMS), Data Structure and Algorithm (DSA)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ritam-bhattacharya-a65236222/)
 
